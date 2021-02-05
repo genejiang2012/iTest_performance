@@ -1,3 +1,3 @@
 # JMeter generated Cookie file
-web-dev2.chiefclouds.com	TRUE	/	FALSE	0	usid	KPmMaswCm368a_tOu48lnsX3R6j7aGvr
-web-dev2.chiefclouds.com	TRUE	/	FALSE	0	X-Token	${X-Token}
+web-dev2.cc.com	TRUE	/	FALSE	0	usid	KPmMaswCm368a_tOu48lnsX3R6j7aGvr
+web-dev2.cc.com	TRUE	/	FALSE	0	X-Token	${X-Token}

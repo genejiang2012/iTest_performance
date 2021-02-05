@@ -163,7 +163,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="web-dev2-url" elementType="Argument">
               <stringProp name="Argument.name">web-dev2-url</stringProp>
-              <stringProp name="Argument.value">web-dev2.chiefclouds.com</stringProp>
+              <stringProp name="Argument.value">web-dev2.cc.com</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="user_id" elementType="Argument">
@@ -190,7 +190,7 @@
           <collectionProp name="CookieManager.cookies">
             <elementProp name="usid" elementType="Cookie" testname="usid">
               <stringProp name="Cookie.value">${user_id}</stringProp>
-              <stringProp name="Cookie.domain">web-dev2.chiefclouds.com</stringProp>
+              <stringProp name="Cookie.domain">web-dev2.cc.com</stringProp>
               <stringProp name="Cookie.path">/</stringProp>
               <boolProp name="Cookie.secure">false</boolProp>
               <longProp name="Cookie.expires">0</longProp>
